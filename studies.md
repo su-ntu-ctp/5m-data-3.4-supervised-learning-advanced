@@ -10,7 +10,7 @@ Please complete the following activities before our session.
 
 ### 📝 Task 1: Controlling Complexity with Regularization (20 Minutes)
 
-**Activity:** Read the **"Regularization in Machine Learning"** and **"Hyperparameter Tuning"** sections in the provided `supervised_learning_3_lesson.ipynb` notebook. Focus on understanding how we prevent models from memorizing noise (overfitting).
+**Activity:** Read the **"Regularization in Machine Learning"** and **"Hyperparameter Tuning"** sections in the provided [`supervised_learning_3_lesson.ipynb`](/notebooks/supervised_learning_3_lesson.ipynb) notebook. Focus on understanding how we prevent models from memorizing noise (overfitting).
 
 **Guiding Questions:**
 
