@@ -12,16 +12,10 @@ Refer to the following markdown file for the respective sections of the class:
 
 ## Lesson Objectives
 
-Learners will understand:
-
-- Hyperparameters evaluation and tuning
-- Baggings and boosting
-- Advanced supervised learning models such as decision trees, random forests, and gradient boosting
-
-Learners will be able to:
-
-- Evaluate and tune hyperparameters
-- Build end-to-end supervised learning workflow with advanced supervised learning models
+* Apply L1 (Lasso), L2 (Ridge) and Elastic Net regularization techniques to regression models to control model complexity and mitigate overfitting.
+* Implement machine learning workflow using `sklearn` pipelines with hyperparameter optimization via Cross-Validation and Grid Search.
+* Analyze the foundational mechanics of Decision Trees, including splitting criteria like Gini Impurity and Entropy.
+* Evaluate distinct ensemble learning strategies by contrasting Bagging and Boosting methodologies and applying advanced algorithms, such as Random Forest, Gradient Boosting and LightGBM, to improve predictive performance.
 
 ## Lesson Plan
 
