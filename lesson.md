@@ -4,13 +4,8 @@
 
 ### Preparation
 
-We will be using the `ml` environment for this lesson. 
+We will be using the `ml` environment for this lesson. If you do not have the environment, refer to [Lesson 2.1](https://github.com/su-ntu-ctp/5m-data-3.1-probability-statistics/blob/main/lesson.md) for instructions on how to create the environment.
 
-For the additional section on decision tree visualization, we will use 'ml-tree' environment, the environment.yml is attached in this repository. To create the 'ml-tree' environment, run 
-```bash
-conda env create -f environment.yml
-```
-in the command line terminal, in the root directory of this repository
 
 ### Lesson Overview
 
