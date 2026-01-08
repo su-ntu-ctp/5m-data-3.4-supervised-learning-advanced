@@ -1,5 +1,9 @@
 # 3.4 Supervised Learning Advanced
 
+## Lesson Overview
+
+![Lesson Overview](./assets/infographic-3.4.png)
+
 ## Dependencies
 
 Refer to the following markdown file for the respective sections of the class:
